@@ -1,2 +1,3 @@
 Welcome to DevOps
+Courses offered: devops, java, .Net
 Contact details: +91 99999 99999
